@@ -10,7 +10,6 @@ Image by: Rachel C, Unsplash
 
 
 ### Project Context
-
 In this project, you are provided with a ticket system database with ticket sales event table. This table tracks all ticket sales for various events, including when
 a third-party reseller submits their records of ticket sales for a new day. The records are submitted as a CSV file.
 
@@ -24,24 +23,24 @@ __Your task is to:__
 
 
 ### Project Deliverables:
-
 - Push the Python code to your GitHub repo.
 - Add a readme file to include steps to run your code and verify the result.
 - Attach the command line execution log for the successful job run. You can capture it in a text file.
 
 ### Technologies
-
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+* JupyterLab version: 3.0.7
+* Python version: 3.8.5
+* conda version: 4.9.2
+* conda-build version: 3.21.4
+
+
 ### Setup
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ cd ../path
+$ tool install
+$ tool start
 ```
 _____
