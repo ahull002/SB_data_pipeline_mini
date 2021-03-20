@@ -1,1 +1,1 @@
-from .module import sales_data
+from .module import sales
