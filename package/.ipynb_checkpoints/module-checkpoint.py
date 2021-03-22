@@ -6,3 +6,5 @@ file_path = (base_path / "../data/third_party_sales_1.csv").resolve()
 
 with open(file_path) as f:
     sales = [line for line in csv.reader(f)]
+with open(file_path) as f:
+    sales_clean = [line for line in csv.reader(f)]

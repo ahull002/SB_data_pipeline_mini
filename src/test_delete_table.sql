@@ -1,0 +1,1 @@
+DROP TABLE `mini_pipeline`.`sales`;

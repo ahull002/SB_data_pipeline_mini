@@ -1,1 +1,1 @@
-from .module import sales
+from .module import sales, sales_clean

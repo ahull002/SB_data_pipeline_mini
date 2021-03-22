@@ -1,2 +1,2 @@
 select *
-from mini_pipeline.load_third_party;
+from mini_pipeline.sales;
