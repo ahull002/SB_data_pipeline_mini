@@ -36,7 +36,7 @@ Project is created with:
 
 
 ### Setup
-To run this project, install it locally using npm:
+To run this project, use the following python packages:
 
 ```
 * import package
