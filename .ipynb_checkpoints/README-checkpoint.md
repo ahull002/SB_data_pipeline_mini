@@ -39,8 +39,11 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../path
-$ tool install
-$ tool start
+* import package
+* import mysql.connector
+* import csv
+* import pandas as pd
+* from pandas import DataFrame
+* from mysql.connector import errorcode
 ```
 _____
